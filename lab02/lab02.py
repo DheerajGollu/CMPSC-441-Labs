@@ -19,9 +19,30 @@
 import itertools
 
 def best_hand(hand):
-    "From a 7-card hand, return the best 5 card hand."
+    #"From a 7-card hand, return the best 5 card hand."
     # Your code here
-    pass
+    
+    combs = itertools.combinations(hand, 5)
+    
+    bestHand = []
+    best_score = (0, 0)
+
+    for comb in combs: 
+
+        curr_score = hand_rank(comb)
+
+        if (curr_score > best_score):
+            bestHand = comb
+            best_score = curr_score
+            
+        """print(comb, "Rank: ", hand_rank(comb))
+        print("Hand Rank: ", curr_score)
+        print("Best Score: ", best_score)
+        print("Best Hand: ", bestHand)"""
+
+    return list(bestHand)
+
+
     
 # ------------------
 # Provided Functions

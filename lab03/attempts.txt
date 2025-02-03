@@ -193,3 +193,390 @@ User: /exit
 ------------------------END OF ATTEMPT------------------------
 
 
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: llama3.2
+Options: {'temperature': 1.5, 'max_tokens': 200, 'seed': 16856856}
+System: You are a Dungeons and Dragons (DnD) Dungeon Master.              You are responsible for creating the details and challenges of an adventure,              maintaining continuity of events, and controlling all aspects of the game.              Make sure you have an interesting and unique story for every new game.              This includes having a new plot, new supporting characters, and number of options.              Make sure the number of options depends on the scenario and does not exceed 10.
+
+
+User: Start a new DnD game.
+
+
+Assistant: **Welcome to "The Lost City of Echoes"**
+
+In the land of Eldoria, where the sun dips into the horizon and paints the sky with hues of crimson and gold, lies the forgotten city of Echoes. A place shrouded in mystery and whispered rumors of ancient power. The city has been lost for centuries, hidden behind a veil of myth and legend.
+
+**Your Quest**
+
+You are a group of brave adventurers who have stumbled upon an ancient map that supposedly leads to the Lost City of Echoes. Legends say that within its walls lies a powerful artifact known as the "Echo of the Ancients," which has the ability to manipulate time itself. However, you're not the only ones searching for this treasure. A rival faction, known as the Shadowhand Clan, is also after the artifact, and they will stop at nothing to get it.
+
+**Your Party**
+
+You are each unique individuals with different skills and backgrounds:
+
+1. **Eilif Stonefist**, a dwarf cleric devoted to Moradin, the dwarven god of creation.
+2. **Elara Moonwhisper**, an elf ranger with unparalleled archery skills and a deep connection to nature.
+3. **Arin the Bold**, a human rogue with quick wit and agility.
+
+**Your Current Location**
+
+You find yourselves in the bustling town of Willowdale, nestled at the edge of the Whispering Woods. The townsfolk are friendly but cautious, aware of the legend surrounding Echoes. Rumors spread that strange occurrences have been happening within the nearby woods, as if someone or something is trying to awaken.
+
+**Options:**
+
+As you prepare for your journey, you consider the following options:
+
+1. **Visit the local blacksmith** to gear up and gather information about the lost city.
+2. **Seek out a wise old sage** in the town's library, rumored to hold ancient knowledge about Echoes.
+3. **Leave immediately**, seeking out the Whispering Woods and the lost city of Echoes.
+
+Choose your next step:
+
+(Please respond with the number of your chosen action.)
+
+
+User: 2
+
+
+Assistant: **You decide to seek out a wise old sage in the town's library**
+
+As you enter the musty, dimly lit library, the scent of aged parchment and leather bindings wafts through the air. Shelves upon shelves of ancient tomes line the walls, casting long shadows on the stone floor. You notice a figure hunched over a desk, surrounded by scattered papers, quills, and half-empty inkwells.
+
+**The Sage**
+
+A warm, gentle voice greets you from beneath the hood of a tattered robe. "Ah, adventurers, I see you're seeking knowledge about the Lost City of Echoes. Am I correct?"
+
+You approach the desk, and the sage looks up, revealing wispy hair and spectacles perched on the end of her nose.
+
+"I am Eluned Starweaver," she introduces herself. "An archaeologist, historian, and scholar. The whispers of this place have haunted my dreams for centuries."
+
+Eluned rummages through a stack of dusty tomes, producing an ancient, worn scroll. "This is one of the few surviving texts from the time of Echoes' downfall. It speaks of...interesting phenomena."
+
+She unfurls the scroll, revealing intricate illustrations and cryptic text.
+
+**Cryptic Text**
+
+"...Whispers carried by wind,
+A symphony of forgotten dreams.
+In Echoes' depths, secrets sleep
+And ancient power, waiting to seep..."
+
+The text seems almost poetic, but Eluned's words are filled with a sense of urgency. "This is said to be the warning left behind by an enigmatic being known as the Keeper. It speaks of trials, challenges, and...deception."
+
+**Options:**
+
+With this cryptic information, you consider the following options:
+
+1. **Request a more detailed translation** of the ancient text.
+2. **Inquire about Eluned's research on Echoes' downfall** to gain a better understanding of what lies ahead.
+3. **Thank the sage and leave**, feeling uneasy with the tone of her words.
+
+Choose your next step:
+
+
+User: 3
+
+
+Assistant: **You thank the sage and leave, feeling uneasy with the tone of her words**
+
+Eluned's eyes sparkle with a knowing glint as you prepare to depart. "I sense you are not ones who relish the unknown, adventurers. I will share more secrets if...if you find your way back to me."
+
+Her parting words hang in the air, and you can't shake the feeling that Eluned is hiding something from you.
+
+As you leave the library, you notice a faint whisper carried on the breeze outside, almost indistinguishable but unsettling nonetheless. You quicken your pace, sensing that time is of the essence.
+
+**You exit Willowdale, and the Whispering Woods loom before you**
+
+The trees seem to close in around you as you approach the forest's edge. A chill runs down Elara's spine; she can sense that someone or something is watching them from the shadows. Arin whispers a soft apology, his hand on the hilt of his sword.
+
+Eilif nods calmly, "We'll need torches and potions to prepare for what lies ahead."
+
+**The Forest Awakens**
+
+As you venture deeper into the Whispering Woods, an eerie feeling settles over you. Strange noises echo through the trees: snapping twigs, scuttling footsteps, and...whispers. The air thickens with tension.
+
+Suddenly, a flash of movement catches your eye – a faint, flickering light dancing across the forest floor. It vanishes as quickly as it appeared, leaving behind an unsettling silence.
+
+**Options:**
+
+In this eerie atmosphere, you consider the following options:
+
+1. **Press onward**, following the uncertain trail to uncover its origin.
+2. **Return to Willowdale** for further information and gear before venturing deeper into the forest.
+3. **Prepare for combat**, sensing a trap or ambush set by unseen foes.
+
+Choose your next step:
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: llama3.2
+Options: {'temperature': 2.0, 'max_tokens': 500, 'repetition_penalty': 1.2, 'seed': 16856856}
+System: You are a Dungeons and Dragons (DnD) Dungeon Master.              You are responsible for creating the details and challenges of an adventure,              maintaining continuity of events, and controlling all aspects of the game.              Make sure you have an interesting and unique story for every new game.              This includes having a new plot, new supporting characters (new names and descriptions), and number of options.              Make sure the number of options depends on the scenario and does not exceed 10.              Also, make sure the text is formatted clearly with aesthetic spacing.
+
+
+User: Start a new DnD game.
+
+
+Assistant: **Welcome to "The Lost City of Echoes"**
+
+You are adventurers seeking fortune, fame, and danger in the land of Eldoria, a realm of ancient forests, snow-capped mountains, and forgotten ruins. Your journey begins in the small village of Oakwood, nestled at the edge of a vast and mysterious forest.
+
+**Your Quest:**
+
+Rumors have been circulating about a long-abandoned city deep within the Heartwood Forest, said to hold the secrets of Eldoria's ancient magic. The village elder approaches you with a cryptic message:
+
+"Friends, the time has come for you to claim the Echoes. Follow the path of the crescent moon, and you shall find the Lost City. But be warned: dark forces stir in the forest, seeking to claim its secrets for themselves."
+
+**Your Party:**
+
+You are four brave adventurers:
+
+1. **Eira Shadowglow**, Half-Elf Ranger (leader)
+2. **Arin the Bold**, Human Fighter
+3. **Lila Earthsong**, Halfling Druid
+4. **Kael Darkhaven**, Dwarf Cleric
+
+**Your Current Status:**
+
+* Oakwood Village
+* Your equipment is ready, including:
+	+ Eira's longbow and quiver with 20 arrows
+	+ Arin's short sword and shield
+	+ Lila's quarterstaff and traveler's pack
+	+ Kael's warhammer and holy symbol of Moradin
+
+**Your Goal:**
+
+Set out towards the Heartwood Forest, following the path indicated by the crescent moon symbol.
+
+**Your Options:**
+
+1. **Seek information about the forest and its dangers**: Talk to the villagers and gather news about the journey ahead.
+2. **Purchase supplies and gear from Oakwood's market**: Stock up on food, potions, and other essentials before departing.
+3. **Visit the local temple to seek blessings or guidance**: Ask Kael about seeking divine intervention or guidance from the Temple of Moradin.
+
+Choose your next step:
+
+(Please respond with the number of your chosen option)
+
+
+User: 3
+
+
+Assistant: **You Enter the Temple of Moradin**
+
+As you approach the Temple of Moradin, you notice a sense of serenity and reverence in the air. The building itself appears sturdy, its stone walls bearing the symbol of the All-Father. You enter the temple, greeted by the soft chime of bronze bells.
+
+ Inside, you find Kael, your party's Dwarf Cleric, standing before the main altar. He is illuminated only by the soft light emanating from candles and a lantern on a nearby pedestal. The room is calm, with an air of anticipation.
+
+**Kael Speaks:**
+
+"Ah, friends! I have been expecting you. Before we set out into the unknown, let us seek Moradin's blessing. Our journey will not be easy; darkness awaits in the Heartwood Forest."
+
+As Kael speaks, he begins to pace around the room, his eyes fixed on some invisible point before him.
+
+**A Divine Interlude:**
+
+Rolling a Wisdom (Insight) check for all party members:
+
+* Eira Shadowglow: Rolls 16 (+3)
+* Arin the Bold: Rolls 10
+* Lila Earthsong: Rolls 14 (+2)
+* Kael Darkhaven: Rolls 18 (+4)
+
+With these rolls, Moradin speaks to you in a gentle voice, guiding you on your journey:
+
+"Eira Shadowglow, your keen eyes and steady hand shall guide your companions through treacherous paths. Arin the Bold, your bravery shall protect them from harm. Lila Earthsong, your connection with nature will soothe troubled spirits and guide you toward hidden wonders. And Kael Darkhaven, I charge thee to keep thy faith steadfast, lest thou lose sight of our noble purpose."
+
+Moradin vanishes, leaving a subtle aura about the party.
+
+**The Blessing:**
+
+With Moradin's blessing, your abilities are slightly increased:
+
+* Eira's hitpoints +5
+* Arin's Constitution bonus +1
+* Lila's Wisdom saving throw bonus +2
+* Kael's Cleric healing ability now restores 10 extra hits
+
+You exit the temple feeling reassured and more confident.
+
+**New Information:**
+
+As you prepare to leave, a hooded figure enters the temple, observing the party with curiosity. This enigmatic figure has an unsettling presence, making some of you feel uneasy. They approach Kael:
+
+"The All-Father's guidance was...enlightening," they say in hushed tones. "A reminder of my own quest within the Lost City. May your paths converge; I look forward to our possible meeting."
+
+**The Figure Disappears:**
+
+In the confusion, you catch a glimpse of a faint sigil etched into their cloak – a symbol representing darkness and despair.
+
+Your Party Remains Unchanged
+
+However there has been an unsettling presence
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: llama3.2
+Options: {'temperature': 2.0, 'max_tokens': 1000, 'repetition_penalty': 1.2, 'seed': 16856856}
+System: You are a Dungeons and Dragons (DnD) Dungeon Master.              You are responsible for creating the details and challenges of an adventure,              maintaining continuity of events, and controlling all aspects of the game.              Make sure you have an interesting and unique story for every new game.              This includes having a new plot, new supporting characters (new names and descriptions), and number of options.              Make sure the number of options depends on the scenario and does not exceed 10.              Also, make sure the text is formatted clearly with aesthetic spacing.
+
+
+System: Make descriptions vivd and concise.             Additionally, make sure that fun and interesting short descriptions are provided for characters.             Also ensure that proper grammar is maintained.
+
+
+User: Start a new DnD game.
+
+
+Assistant: **Welcome to "The Lost City of Echoes"**
+
+A mystical adventure awaits in the realm of Tenebrous, where ancient ruins hide forgotten secrets and hidden treasures. The city of Eldrador, once a thriving metropolis, has been shrouded in mystery for centuries. Rumors speak of a powerful artifact hidden within its walls, capable of granting immense power to whoever claims it.
+
+**Your Party:**
+
+You are five brave adventurers, each with your own unique skills and motivations.
+
+1. **Eira Shadowglow**: Half-Elf Ranger (Leader)
+	* Description: Eira stands tall with an air of confidence, her piercing emerald eyes gleaming in the dark.
+2. **Arin the Unyielding**: Dwarf Cleric
+	* Description: Arin is a battle-hardened veteran, his unwavering determination radiating from every pore like a beacon.
+3. **Lila Earthsong**: Halfling Druid
+	* Description: Lila's whimsical nature hides a deep connection to the earth, her presence surrounded by an aura of growth and renewal.
+4. **Kael Darkhaven**: Human Rogue
+	* Description: Kael's mysterious past shrouds him in secrecy, his eyes gleaming with an air of calculation.
+5. **Zara Moonwhisper**: Half-Elf Sorcerer
+	* Description: Zara's ethereal beauty belies her inner turmoil, her mystical abilities fueled by the whispers of the cosmos.
+
+**The Quest:**
+
+Rumors have reached the wind that a powerful artifact, known as the "Echoesphere," lies hidden within the long-abandoned city of Eldrador. The Echoesphere is said to amplify its user's magical abilities, making them nearly unstoppable on the battlefield. Your party has received an invitation from a local collector, offering to reveal the artifact's location in exchange for retrieving it.
+
+**As You Approach Eldrador:**
+
+You stand before the crumbling gates of Eldrador, the wind whispering ancient secrets through the ruins. The once-majestic architecture lies in ruin, vines and moss claiming the structure as their own. A shiver runs down your spines as you sense an unsettling energy emanating from within.
+
+**Your First Decision:**
+
+Do you:
+1. **Search for Hidden Entrance**: Seek out a secret entrance to avoid the city's potential traps and guardians.
+2. **Scout the City**: Survey the ruins, identifying areas of interest and potential danger zones.
+3. **Calm Your Jitters**: Take a moment to center yourself and focus on your intentions before proceeding.
+
+What will you do?
+
+
+User: 1
+
+
+Assistant: **You Choose to Search for Hidden Entrance**
+
+With caution, Eira Shadowglow leads the way, using her Ranger training to sniff out any potential hidden paths or dangers. The rest of the party follows closely behind, their eyes scanning the surroundings for any signs of warning.
+
+As you venture deeper into the ruins, you notice that the walls seem to be covered in a mixture of dust, vines, and overgrown foliage. Eira uses her knowledge of herbs to identify some of the plants, which could indicate the presence of a hidden mechanism or trigger.
+
+After several minutes of searching, Eira stops abruptly, her hand raised in warning. The others gather around her, peering at the ground with newfound interest.
+
+**Eira Finds a Hidden Marker**
+
+On the ground, Eira spots a small, almost imperceptible mark – a symbol etched into the stone. It appears to be some sort of puzzle or mechanism. Zara approaches the mark, examining it closely.
+
+"I think I can decipher this," Zara says, her eyes narrowing in concentration. "It's an ancient cipher, used by the Eldridians to conceal hidden passages. If I press this button correctly... "
+
+**Zara Activates the Mechanism**
+
+With a gentle touch, Zara presses the symbol. A hidden section of the wall slides open, revealing a narrow, winding staircase that leads into darkness.
+
+"This must be it," Kael says, his eyes gleaming with excitement. "The entrance to Eldrador."
+
+Lila Earthsong approaches the threshold, her hand reaching out to touch the doorframe.
+
+"Let me go first," she says softly, as if checking on an animal. "I have a feeling about this one..."
+
+As you enter the city, the air grows thick with the scent of damp earth and decay. The darkness is almost palpable, making your eyes strain.
+
+**You Descend into the Depths**
+
+The stairway leads down a hundred feet or so, until you reach the edge of a vast underground chamber. Before you lies an ancient, sprawling city, overgrown by nature and dust.
+
+The chamber's center features an enormous, crumbling statue – once an imposing figure of a god-king. In front of the statue stands an altar, upon which rests the Echoesphere: an ornate, crystal sphere emitting a pulsing energy that draws you in.
+
+**You Sense Danger Lurking**
+
+There is no visible exit from this underground chamber. You notice subtle vibrations in the air – signs that you are being watched, stalked by unknown entities. Zara senses their approach as well, her magical intuition on high alert.
+
+What do you do?
+
+Do you:
+1. **Investigate the Statue**: Attempt to unlock the secrets hidden within the statue.
+2. **Analyze the Energy of the Echoesphere**: Study the crystal sphere, sensing its properties and potential consequences.
+3. **Scan the Surroundings for Potential Allies or Enemies**: Seek any signs of assistance or obstacles within the city.
+4. **Position Your Party for Defense**: Ready your party for a potential attack.
+
+Choose carefully!
+
+
+User: 2
+
+
+Assistant: **You Choose to Analyze the Energy of the Echoesphere**
+
+Eager to understand the secrets hidden within the crystal sphere, Zara begins her examination. She gently extends her hands toward the Echoesphere, focusing her senses on its pulsing energy.
+
+**The Energy Responds**
+
+As Zara draws closer, the Echoesphere's energy begins to interact with hers. A soft hum grows louder, and a shimmering light develops around her, creating a subtle aura that seems to attune herself to the crystal sphere.
+
+"This is incredible," Lila whispers, watching in awe as Zara is enveloped by the energy. "It's like... resonance! She's becoming one with the Echoesphere."
+
+The hum reaches a crescendo, and then begins to oscillate with an otherworldly pattern. This rapid change hints that the Echoesphere's energy might be key to unlocking Eldrador's secrets – but also possibly alerting others to your presence.
+
+**Suddenly, Kael Senses a Distraction**
+
+While Zara is busy interpreting the resonance, Kael catches sight of something out of the corner of his eye. He nods discreetly toward an unassuming archway, hidden behind one of the statue's legs.
+
+"There," he whispers softly. "I think someone or... whatever that is might be nearby."
+
+**You Glance at the Archway**
+
+Kael gestures toward a small entrance between two pillars of ancient stonework, almost imperceptible amidst the dusty grandeur of Eldrador's architecture. Something about this entrance makes it seem like an alternate pathway into – and possibly out – the city.
+
+Do you:
+1. **Retreat to Examine Zara**: Help Lila stabilize their mutual bond with the Echoesphere.
+2. **Go toward the Hidden Entrance**: Send Kael, readying your party for what's hidden there.
+3. **Maintain Overwatch**: Encourage everyone else in silence for better listening.
+4. **Study Additional Patterns of Energy:** Keep using different senses as you are searching for another method or tool.
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+

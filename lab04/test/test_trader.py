@@ -1,6 +1,7 @@
 from math import exp
 from pathlib import Path
 import sys
+import ast
 sys.path.append(str(Path(__file__).parents[2]))
 
 import json
@@ -47,13 +48,17 @@ def test_scenario(scenario):
     # Compare to what we expect
     print('Output: ',result)
     print('Expected: ',expected_response)
+
     assert not diff(json.loads(result), expected_response)
 
 if __name__ == "__main__":
     test_scenario(
         {
-            "inventory": ["mana potion", "health potion"],
-            "ask": "One health potion and two mana potions",
-            "response": ["health potion", "mana potion", "mana potion"],
-        }
-    )
+            "inventory": ["silver sword", "iron shield"],
+            "ask": "I want 3 silver swords and 1 iron shield",
+            "response": [
+            "silver sword",
+            "silver sword",
+            "silver sword",
+            "iron shield"]
+        }   )
